@@ -6,7 +6,7 @@ We provide a community where students can build their technological skills, by e
 data analytics, ML and more using Google's suite of developer tools and platforms, giving students a competitive advantage in the tech industry. 
 
 ### 🤖 Core Team
-[Jeamelee Smith](https://github.com/Jeamelee), [Shawn Grant](https://github.com/shawn-grant), [Hakeem Watson](https://github.com/DJanEver), [Joel Wisdom](https://github.com/theSparro), [Garvain Campbell](https://github.com/GarvainCampbell), [Daryn Brown](https://github.com/daryn-brown), Jada Walters, Shakiel Barnett
+[Shawn Grant](https://github.com/shawn-grant), [Jeamelee Smith](https://github.com/Jeamelee), [Daryn Brown](https://github.com/daryn-brown), [Joel Wisdom](https://github.com/theSparro), [Garvain Campbell](https://github.com/GarvainCampbell), [Shane Harris](https://github.com/Shane4368), 
 
 ---
 Website: https://cursortech.club/
